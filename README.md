@@ -5,7 +5,7 @@ This project applies Software Engineering Principles and uses AGILE for the Soft
 In the beginning, we have little knowledge about Back-End. However, we learned to code the Back-End of the website from YouTube. 
 Glad to know that we have successfully created this website and scored 85 out of 100 for this project. 
 
-Software: Visual Studio Code
+Code Editor: Visual Studio Code
 
 Language: PHP and CSS
 
