@@ -7,7 +7,7 @@ Glad to know that we have successfully created this website and scored 85 out of
 
 Code Editor: Visual Studio Code
 
-Language: PHP and CSS
+Language: PHP, CSS, HTML, and SQL
 
 Framework: Bootstrap
 
