@@ -11,7 +11,7 @@ Language: PHP, CSS, HTML, and SQL
 
 Framework: Bootstrap
 
-Other: XAMPP
+Other: XAMPP and Figma
 
 Project Creators:
 1. 2440011356 - Juanico Wijaya Kusuma 
