@@ -11,6 +11,8 @@ Language: PHP, CSS, HTML, and SQL
 
 Framework: Bootstrap
 
+Other: XAMPP
+
 Project Creators:
 1. 2440011356 - Juanico Wijaya Kusuma 
 2. 2440062483 - Rizky Hertama
